@@ -1,0 +1,50 @@
+{
+    "buttons": [
+        "\u00d7",
+        "Close",
+        "Send message",
+        "\u00d7",
+        "Close",
+        "Sign up",
+        "\u00d7",
+        "Close",
+        "Log in",
+        "\u00d7",
+        "Close",
+        "",
+        "Previous",
+        "Next"
+    ],
+    "links": [
+        "index.html",
+        "index.html",
+        "#",
+        "#",
+        "cart.html",
+        "#",
+        "#",
+        "#",
+        "#",
+        "#carouselExampleIndicators",
+        "#carouselExampleIndicators",
+        "",
+        "#",
+        "#",
+        "#"
+    ],
+    "input_fields": [
+        "Unnamed",
+        "Unnamed",
+        "Unnamed",
+        "Unnamed",
+        "Unnamed",
+        "Unnamed"
+    ],
+    "forms": [
+        "No action",
+        "No action",
+        "No action",
+        "No action",
+        "No action"
+    ]
+}
