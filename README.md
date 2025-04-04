@@ -46,6 +46,9 @@ test_cases.xlsx → Automatically generated test cases.
 <br>
 test_scripts.xlsx → Selenium scripts to automate testing.
 
+![image](https://github.com/user-attachments/assets/71625b72-5ecc-4c97-810c-28fb97df7bff)
+
+![image](https://github.com/user-attachments/assets/e14c9473-2830-46ae-9225-035c88f5b9b1)
 
 
 
